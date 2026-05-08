@@ -25,7 +25,7 @@ Each directory contains an independent implementation of the same gateway proxy 
 
 Each language solves the same concurrency and systems problems differently:
 
-- **Java** — virtual threads (Java 21), Spring ecosystem familiarity
+- **Java** — virtual threads (Java 25), Spring ecosystem familiarity
 - **Go** — goroutines and channels, lightweight concurrency model
 - **Rust** — ownership model, async patterns, memory safety without a GC
 
