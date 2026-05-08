@@ -16,7 +16,7 @@ let
     ];
     java = [
       maven
-      zulu
+      zulu25
       jdt-language-server
     ];
     scripts = pkgs.lib.attrsets.attrValues scripts;
